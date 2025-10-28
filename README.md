@@ -203,5 +203,6 @@ This project is for educational and demonstration purposes. Please ensure compli
 
 ---
 
-**Built with ❤️ using LangChain, Flask, and Google Gemini AI**
+**Built with ❤️ using LangChain, Flask, and Google Gemini AI.**
+
 If any quries or problem in running the repository contact on "taskingboy12345@gmail.com"
